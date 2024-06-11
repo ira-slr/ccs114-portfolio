@@ -28,10 +28,6 @@
     scroll-behavior: smooth;
 }
 
-body, header {
-    scroll-behavior: smooth;
-}
-
 header {
     display: flex;
     flex-direction: row;
